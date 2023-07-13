@@ -1,5 +1,5 @@
 {
-  "name": "Home Assistant Add-on: Zigbee2MQTT",
+  "name": "Home Assistant Add-on weinic: Zigbee2MQTT",
   "url": "https://github.com/weinic/hassio-zigbee2mqtt",
   "maintainer": "Koen Kanters <koenkanters94@gmail.com>"
 }
